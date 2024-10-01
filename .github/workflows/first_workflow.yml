@@ -8,3 +8,8 @@ jobs:
         run: echo "hello there"
       - name: Bye
         run: echo "bye there"
+      - name: Printer
+        run: |
+            echo "It's good to have you here"
+            echo "I hope you learn a lot"
+            echo "Let me know when you're done"
